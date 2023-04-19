@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: Employee
+    author : guliyevnihat
+    version: 1.0.0

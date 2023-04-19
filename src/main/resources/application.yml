@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: Employee
+  profiles:
+    include:
+      - db
+      - openapi
+    active: prod
